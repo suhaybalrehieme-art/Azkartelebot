@@ -7,8 +7,8 @@ import threading
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = '8425228219:AAHCn4hAL5lPurbAYI8n2MDMOEr7VVzt6H8'
-USER_DATA_FILE = 'users_config.json'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+USER_DATA_FILE = 'yyyyyyyyyyyyyyyy'
 ASSETS_FILE = 'azkar.json'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
